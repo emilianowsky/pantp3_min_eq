@@ -1,0 +1,1 @@
+# pantp3_min_eq
